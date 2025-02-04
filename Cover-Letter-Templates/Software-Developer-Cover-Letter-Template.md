@@ -14,7 +14,7 @@ I am writing to express my interest in the Software Developer position at [Compa
 
 Through my time at HyperionDev, I developed over 30 programs and honed my skills in Python, Java, and SQL, achieving a 98% average. In addition to my technical skills, I have a proven track record of working under pressure, collaborating with teams, and solving complex problems—skills I developed during my time as a Graduate Production Assistant and in various roles within the film and media industries.  
 
-At **CoGrammar** and **HyperionDev**, I gained proficiency in I/O operations, error management, and debugging, as well as experience with version control using Git. My ability to adapt and solve problems creatively was also showcased during my interactive film project “Veiled Descent,” where I utilized PowerPoint as a game engine, merging storytelling and technology.
+At **HyperionDev's CoGrammar BootCamp**, I gained proficiency in I/O operations, error management, and debugging, as well as experience with version control using Git. My ability to adapt and solve problems creatively was also showcased during my interactive film project “Veiled Descent,” where I utilized PowerPoint as a game engine, merging storytelling and technology.
 
 I am particularly drawn to this opportunity at [Company Name] due to your company’s innovative approach to technology and its mission to [mention the company’s goal or value you resonate with]. I am eager to apply my skills, continue my learning journey in software development, and contribute to your team’s success.
 
