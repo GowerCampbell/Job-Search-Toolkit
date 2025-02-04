@@ -1,4 +1,4 @@
-Here’s a tailored **Software Developer Cover Letter** for you, Gower Campbell, based on your CV:
+Here’s a tailored **Software Developer Cover Letter** 
 
 ---
 
