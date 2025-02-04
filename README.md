@@ -1,85 +1,96 @@
+# **Job Search Toolkit**  
+**By Gower Campbell**  
+Junior Software Developer | Creative Problem Solver  
+📞 Phone: 07714935387 | 📧 Email: Gower.Campbell@gmail.com  
+🌐 [GitHub](https://github.com/GowerCampbell) | 🔗 [LinkedIn](https://www.linkedin.com/in/gowercampbell)  
 
-Contents
-1. Resume Templates
-Software Developer Resume Template: Tailored for technical roles, highlighting Python, SQL, Git, and problem-solving skills. [Link Here]
+---
 
-Creative Developer Resume Template: Combines technical skills with creative expertise (filmmaking, video editing, and content creation). [Link Here]
+## **About This Repository**  
+This repository is a **centralized hub** for organizing and showcasing my job search materials, including **resume templates**, **cover letter examples**, **portfolio projects**, and **interview preparation resources**. It’s designed to help me stay organized during my job search while demonstrating my technical and organizational skills to potential employers.
 
-2. Cover Letter Templates
-Software Developer Cover Letter Template: Focuses on technical projects and problem-solving abilities. [Link Here]
+Whether you're a fellow job seeker or an employer, feel free to explore, use, and contribute to this toolkit!  
 
-Creative Developer Cover Letter Template: Highlights the intersection of programming and creative media production. [Link Here]
+---
 
-3. Portfolio Projects
-Interactive Terminal Menu: A Python project demonstrating I/O operations and modular coding. [Directory Link Here]
+## **Contents**  
 
-Data Analysis Script: A Python script for data manipulation and visualization.
-[Directory Link Here]
+### 1. **Resume Templates**  
+- **[Software Developer Resume Template](#)**: Tailored for technical roles, highlighting Python, SQL, Git, and problem-solving skills.  
+- **[Creative Developer Resume Template](#)**: Combines technical skills with creative expertise (filmmaking, video editing, and content creation).  
 
-Front-End Website: A responsive website showcasing HTML, CSS, and JavaScript skills.
-[Directory Link Here]
+---
 
-4. Interview Preparation
-Coding Challenges: Solutions to common coding problems (e.g., algorithms, data structures).
-[Index Link Here]
+### 2. **Cover Letter Templates**  
+- **[Software Developer Cover Letter Template](#)**: Focuses on technical projects and problem-solving abilities.  
+- **[Creative Developer Cover Letter Template](#)**: Highlights the intersection of programming and creative media production.  
 
-System Design: Notes and examples for designing scalable systems.
-[Elements Link Here]
+---
 
-Behavioral Questions: A list of common behavioral interview questions with sample answers.
-[Link Here]
+### 3. **Portfolio Projects**  
+- **[Interactive Terminal Menu](#)**: A Python project demonstrating I/O operations and modular coding.  
+- **[Data Analysis Script](#)**: A Python script for data manipulation and visualization.  
+- **[Front-End Website](#)**: A responsive website showcasing HTML, CSS, and JavaScript skills.  
 
-5. Networking Templates
-LinkedIn Connection Message Template: A professional message template for reaching out to industry professionals. [Link Here]
+---
 
-Follow-Up Email Template: A polite and concise email template for following up after interviews or networking events. [Link Here]
+### 4. **Interview Preparation**  
+- **[Coding Challenges](#)**: Solutions to common coding problems (e.g., algorithms, data structures).  
+- **[System Design](#)**: Notes and examples for designing scalable systems.  
+- **[Behavioral Questions](#)**: A list of common behavioral interview questions with sample answers.  
 
-6. Job Tracker [Link Here]
-A Markdown file or spreadsheet to track job applications, including:
+---
 
-Company Name
+### 5. **Networking Templates**  
+- **[LinkedIn Connection Message Template](#)**: A professional message template for reaching out to industry professionals.  
+- **[Follow-Up Email Template](#)**: A polite and concise email template for following up after interviews or networking events.  
 
-Role
+---
 
-Application Status
+### 6. **Job Tracker**  
+- **[Job Tracker](#)**: A Markdown file or spreadsheet to track job applications, including:  
+  - Company Name  
+  - Role  
+  - Application Status  
+  - Contact Information  
+  - Notes  
 
-Contact Information
+---
 
-Notes
+## **My Profile**  
+I am transitioning to a career in **software development**, leveraging my **filmmaking background** to approach programming with **creativity** and **attention to detail**. I thrive in collaborative environments and am committed to growing my technical skills to contribute to impactful projects.  
 
-My Profile
-I am transitioning to a career in software development, leveraging my filmmaking background to approach programming with creativity and attention to detail. I thrive in collaborative environments and am committed to growing my technical skills to contribute to impactful projects.
+---
 
-Key Skills
-Technical Skills: Python, HTML, CSS, Git, SQL, Docker, Visual Studio Code.
+## **Key Skills**  
+- **Technical Skills**: Python, HTML, CSS, Git, SQL, Docker, Visual Studio Code.  
+- **Creative Skills**: Video editing (Adobe After Effects, Premiere, Photoshop), storytelling, and content creation.  
+- **Soft Skills**: Problem-solving, teamwork, effective communication, and organizational expertise.  
 
-Creative Skills: Video editing (Adobe After Effects, Premiere, Photoshop), storytelling, and content creation.
+---
 
-Soft Skills: Problem-solving, teamwork, effective communication, and organizational expertise.
+## **Education**  
+- **HyperionDev**: Software Engineering Bootcamp (2024)  
+- **Norwich University of the Arts**: MA Film Studies (Merit), BA Film & Moving Image Production (2.2)  
+- **Lancaster & Morecambe College**: BTEC UAL Diploma in Creative Media Production (Distinction)  
 
-Education
-HyperionDev: Software Engineering Bootcamp (2024)
+---
 
-Norwich University of the Arts: MA Film Studies (Merit), BA Film & Moving Image Production (2.2)
+## **Accomplishments**  
+- **"Workplace Repository"**: Completed tasks, including interactive terminal menus and HTML files.  
+- **"Veiled Descent" – MA Interactive Film**: An interactive film blending narratives, graphics, and audience-driven outcomes.  
+- **"From the Roots of Aray" – BA Final Project**: A documentary exploring heritage through interviews and research.  
 
-Lancaster & Morecambe College: BTEC UAL Diploma in Creative Media Production (Distinction)
+---
 
-Accomplishments
-"Workplace Repository": Completed tasks, including interactive terminal menus and HTML files.
+## **How to Use This Repository**  
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/GowerCampbell/Job-Search-Toolkit.git
+   ```
+2. **Explore the Folders**: Navigate through the folders to find templates, projects, and resources.  
+3. **Customize**: Use the templates and examples to tailor your own job search materials.  
+4. **Contribute**: Feel free to fork this repository and contribute your own templates or resources!  
 
-"Veiled Descent" – MA Interactive Film: An interactive film blending narratives, graphics, and audience-driven outcomes.
-
-"From the Roots of Aray" – BA Final Project: A documentary exploring heritage through interviews and research.
-
-How to Use This Repository
-Clone the Repository:
-
-bash
-Copy
-git clone https://github.com/GowerCampbell/Job-Search-Toolkit.git
-Explore the Folders: Navigate through the folders to find templates, projects, and resources.
-
-Customize: Use the templates and examples to tailor your own job search materials.
-
-Contribute: Feel free to fork this repository and contribute your own templates or resources!
+---
 
