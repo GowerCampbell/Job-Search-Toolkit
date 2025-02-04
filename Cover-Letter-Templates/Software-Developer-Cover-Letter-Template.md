@@ -5,7 +5,7 @@ Here’s a tailored **Software Developer Cover Letter**
 **Gower Campbell**  
 Phone: 07714935387  
 Email: Gower.Campbell@gmail.com  
-[**GitHub**](https://github.com/GowerCampbell) | 🔗 [**LinkedIn**](https://www.linkedin.com/in/gower-campbell-16940115b)  
+[**GitHub**](https://github.com/GowerCampbell) | [**LinkedIn**](https://www.linkedin.com/in/gower-campbell-16940115b)  
 [Date]
 
 **To Whom It May Concern,**
