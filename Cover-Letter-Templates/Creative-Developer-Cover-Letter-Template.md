@@ -1,7 +1,7 @@
 ### **Gower Campbell**  
 **Junior Software Developer | Creative Problem Solver**  
 📞 Phone: 07714935387 | 📧 Email: Gower.Campbell@gmail.com  
-🌐 GitHub: [github.com/GowerCampbell](https://github.com/GowerCampbell) | 🔗 LinkedIn: [linkedin.com/in/gowercampbell](https://www.linkedin.com/in/gowercampbell)  
+🌐 GitHub: [github.com/GowerCampbell](https://github.com/GowerCampbell) | 🔗 LinkedIn: [linkedin.com/in/gowercampbell](www.linkedin.com/in/gower-campbell-16940115b)  
 
 ---
 
