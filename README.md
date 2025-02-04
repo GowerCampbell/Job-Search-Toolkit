@@ -76,10 +76,10 @@ I am transitioning to a career in **software development**, leveraging my **film
 
 ---
 
-## **Accomplishments**  
-- **"Workplace Repository"**: Completed tasks, including interactive terminal menus and HTML files.  
-- **"Veiled Descent" – MA Interactive Film**: An interactive film blending narratives, graphics, and audience-driven outcomes.  
-- **"From the Roots of Aray" – BA Final Project**: A documentary exploring heritage through interviews and research.  
+### **Accomplishments**  
+- **[“WORKPLACE REPOSITORY”](https://github.com/GowerCampbell/WorkSpace):** Completed tasks, including Challenges with Interactive Menus on Terminals and HTML files.  
+- **[“VEILED DESCENT”](https://player.stornaway.io/watch/c5da4bf5) – MA Interactive Film | 17/09/2023:** Interactive film blending narratives, graphics, music, and voiceovers for audience-driven outcomes.  
+- **[“FROM THE ROOTS OF ARAY”](https://youtu.be/nEXT89VdP3M) – BA Final Project | 25/05/2022:** Documentary exploring heritage through interviews and research with the History Society and Scottish communities.  
 
 ---
 
