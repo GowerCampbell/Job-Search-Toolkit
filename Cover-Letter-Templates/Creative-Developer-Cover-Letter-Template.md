@@ -10,7 +10,7 @@ Here’s a **Creative Developer Cover Letter Template** tailored to your backgro
 
 **[Date]**  
 
-**[Hiring Manager’s Name]**  
+**[Recruiter]**  
 [Company Name]  
 [Company Address]  
 [City, Postcode]  
