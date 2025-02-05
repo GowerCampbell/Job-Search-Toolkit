@@ -10,5 +10,27 @@ This is a simple Python-based interactive terminal menu that demonstrates **I/O 
 
 ## How to Run
 1. Clone the repository:
-   ```bash
+   ```zsh
    git clone https://github.com/GowerCampbell/Interactive-Terminal-Menu.git
+   ```
+2. Navigate to the project directory:
+   ```zsh
+   cd Interactive-Terminal-Menu
+   ```
+3. Run the Python script:
+   ```zsh
+   python menu.py
+   ```
+
+## Technologies Used
+ - Python
+- `datetime` module
+- `os` module
+- `random` module
+
+## Author
+Gower Campbell  
+📧 Email: Gower.Campbell@gmail.com  
+🌐 GitHub: [github.com/GowerCampbell](https://github.com/GowerCampbell)  
+🔗 LinkedIn: [linkedin.com/in/gowercampbell](https://www.linkedin.com/in/gowercampbell)
+```
