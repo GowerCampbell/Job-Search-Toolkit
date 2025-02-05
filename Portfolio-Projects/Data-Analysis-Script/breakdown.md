@@ -119,6 +119,3 @@ if __name__ == "__main__":
   ```
 - Each row represents a record, and commas separate the values.
 
----
-
-Let me know if you need any clarification! 🚀
