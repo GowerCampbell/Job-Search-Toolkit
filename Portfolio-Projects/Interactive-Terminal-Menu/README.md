@@ -32,5 +32,5 @@ This is a simple Python-based interactive terminal menu that demonstrates **I/O 
 Gower Campbell  
 📧 Email: Gower.Campbell@gmail.com  
 🌐 GitHub: [github.com/GowerCampbell](https://github.com/GowerCampbell)  
-🔗 LinkedIn: [linkedin.com/in/gowercampbell](https://www.linkedin.com/in/gowercampbell)
+🔗 LinkedIn: [linkedin.com/in/gowercampbell](https://linkedin.com/in/gower-campbell-16940115b)
 
