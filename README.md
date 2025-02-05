@@ -16,39 +16,39 @@ Whether you're a fellow job seeker or an employer, feel free to explore, use, an
 ## **Contents**  
 
 ### 1. **Resume Templates**  
-- **[Software Developer Resume Template](#)**: Tailored for technical roles, highlighting Python, SQL, Git, and problem-solving skills.  
-- **[Creative Developer Resume Template](#)**: Combines technical skills with creative expertise (filmmaking, video editing, and content creation).  
+- **[Software Developer Resume Template](Cover-Letter-Templates/Software-Developer-Cover-Letter-Template.md)**: Tailored for technical roles, highlighting Python, SQL, Git, and problem-solving skills.  
+- **[Creative Developer Resume Template](Cover-Letter-Templates/Creative-Developer-Cover-Letter-Template.md)**: Combines technical skills with creative expertise (filmmaking, video editing, and content creation).  
 
 ---
 
 ### 2. **Cover Letter Templates**  
-- **[Software Developer Cover Letter Template](#)**: Focuses on technical projects and problem-solving abilities.  
-- **[Creative Developer Cover Letter Template](#)**: Highlights the intersection of programming and creative media production.  
+- **[Software Developer Cover Letter Template](Resume-Templates/Software-Developer-Resume-Template.md)**: Focuses on technical projects and problem-solving abilities.  
+- **[Creative Developer Cover Letter Template](Resume-Templates/Creative-Developer-Resume-Template.md)**: Highlights the intersection of programming and creative media production.  
 
 ---
 
 ### 3. **Portfolio Projects**  
-- **[Interactive Terminal Menu](#)**: A Python project demonstrating I/O operations and modular coding.  
-- **[Data Analysis Script](#)**: A Python script for data manipulation and visualization.  
-- **[Front-End Website](#)**: A responsive website showcasing HTML, CSS, and JavaScript skills.  
+- **[Interactive Terminal Menu](Portfolio-Projects/Interactive-Terminal-Menu/menu.py)**: A Python project demonstrating I/O operations and modular coding.  
+- **[Data Analysis Script](Portfolio-Projects/Data-Analysis-Script/README.md)**: A Python script for data manipulation and visualization.  
+- **[Front-End Website](Portfolio-Projects/Front-End-Website/README.md)**: A responsive website showcasing HTML, CSS, and JavaScript skills.  
 
 ---
 
 ### 4. **Interview Preparation**  
-- **[Coding Challenges](#)**: Solutions to common coding problems (e.g., algorithms, data structures).  
-- **[System Design](#)**: Notes and examples for designing scalable systems.  
-- **[Behavioral Questions](#)**: A list of common behavioral interview questions with sample answers.  
+- **[Coding Challenges](Interview-Prep/Coding-Challenges/INDEX.md)**: Solutions to common coding problems (e.g., algorithms, data structures).  
+- **[System Design](Interview-Prep/System-Design/ELEMENTs.md)**: Notes and examples for designing scalable systems.  
+- **[Behavioral Questions](Interview-Prep/Behavioral-Questions.md)**: A list of common behavioral interview questions with sample answers.  
 
 ---
 
 ### 5. **Networking Templates**  
-- **[LinkedIn Connection Message Template](#)**: A professional message template for reaching out to industry professionals.  
-- **[Follow-Up Email Template](#)**: A polite and concise email template for following up after interviews or networking events.  
+- **[LinkedIn Connection Message Template](Networking-Templates/LinkedIn-Connection-Message-Template.md)**: A professional message template for reaching out to industry professionals.  
+- **[Follow-Up Email Template](Networking-Templates/Follow-Up-Email-Template.md)**: A polite and concise email template for following up after interviews or networking events.  
 
 ---
 
 ### 6. **Job Tracker**  
-- **[Job Tracker](#)**: A Markdown file or spreadsheet to track job applications, including:  
+- **[Job Tracker](Job-Tracker.md)**: A Markdown file or spreadsheet to track job applications, including:  
   - Company Name  
   - Role  
   - Application Status  
