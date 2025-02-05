@@ -43,5 +43,6 @@ Looking forward to connecting!
 
 Best regards,
 Gower Campbell
-[LinkedIn Profile URL]
+
+[GitHub Profile URL]
 Junior Software Developer
