@@ -2,7 +2,7 @@
 **By Gower Campbell**  
 Junior Software Developer | Creative Problem Solver  
 📞 Phone: 07714935387 | 📧 Email: Gower.Campbell@gmail.com  
-🌐 [GitHub](https://github.com/GowerCampbell) | 🔗 [LinkedIn](https://www.linkedin.com/in/gowercampbell)  
+🌐 [GitHub](https://github.com/GowerCampbell) | 🔗 [LinkedIn](https://linkedin.com/in/gower-campbell-16940115b)  
 
 ---
 
