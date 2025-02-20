@@ -65,7 +65,7 @@ Whether you're a fellow job seeker or an employer, feel free to explore, use, an
 
 This job application tracker is part of my submission for HyperionDev. You can find additional details and supporting documents in the following PDF:
 
-📄 **[Job Search Toolkit - Gower Campbell](Gower_Campbell_Job_Search_Toolkit.pdf)**
+📄 **[Job Search Toolkit - Gower Campbell](Gower-Campbell-Job-Search-Toolkit.pdf)**
 
 For any inquiries or networking opportunities, feel free to contact me:
 
