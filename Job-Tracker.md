@@ -2,8 +2,16 @@
 
 ## Jobs Applied To
 
-| Company Name   | Job Title        | Date Applied | Job Link             | Application Status | Follow-up Date | Notes             |
-|----------------|------------------|--------------|----------------------|--------------------|----------------|-------------------|
-| Example Corp   | Software Engineer| 2025-02-01   | [Job Link](http://...) | Applied            | 2025-02-10     | Waiting for response |
-| Techie Ltd     | Data Scientist    | 2025-02-03   | [Job Link](http://...) | Interview Scheduled | 2025-02-12     | 1st interview completed |
+| Company Name          | Job Title                           | Date Applied | Job Link                      | Application Status | Follow-up Date | Notes                     |
+|----------------------|--------------------------------|--------------|--------------------------------|--------------------|----------------|---------------------------|
+| Baltic Apprenticeships | Software Development Apprentice | 20/02/2025   | [SD Apprenticeship Link](#)   | Pending            | [Set Date]      | Excited about the opportunity! |
+| JBA Consulting       | Civil Engineering Technician Apprentice | 20/02/2025   | [CE/SD Technician Apprentice](#) | Pending            | [Set Date]      | Excited about the opportunity! |
+| Roku                | Software Engineer Intern        | 20/02/2025   | [Roku Linkedin Jobs](#)        | Pending            | [Set Date]      | Excited about the opportunity! |
+| Bending Spoons      | Software Engineer, Intern      | 20/02/2025   | [Application Intern Job](#)    | Pending            | [Set Date]      | Excited about the opportunity! |
+| Sparta Global       | Junior DevOps Engineer         | 20/02/2025   | [Application Intern Job](#)    | Pending            | [Set Date]      | Excited about the opportunity! |
 
+## Important Dates
+
+- **Interviews**: Update when scheduled
+- **Offers**: Track responses and negotiations
+- **Follow-ups**: Set reminders for pending applications
