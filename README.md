@@ -47,13 +47,8 @@ Whether you're a fellow job seeker or an employer, feel free to explore, use, an
 
 ---
 
-### 6. **Job Tracker**  
-- **[Job Tracker](Job-Tracker.md)**: A Markdown file or spreadsheet to track job applications, including:  
-  - Company Name  
-  - Role  
-  - Application Status  
-  - Contact Information  
-  - Notes  
+### 6. **Job Tracking Documentation**  
+- **[Job Tracker](Job-Tracker.md)**: A Markdown file or spreadsheet to track job applications, including:
 
 ---
 
