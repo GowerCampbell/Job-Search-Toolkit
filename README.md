@@ -45,39 +45,36 @@ Whether you're a fellow job seeker or an employer, feel free to explore, use, an
 - **[LinkedIn Connection Message Template](Networking-Templates/LinkedIn-Connection-Message-Template.md)**: A professional message template for reaching out to industry professionals.  
 - **[Follow-Up Email Template](Networking-Templates/Follow-Up-Email-Template.md)**: A polite and concise email template for following up after interviews or networking events.  
 
----
+| Company Name          | Job Title                           | Date Applied | Job Link                      | Application Status | Follow-up Date | Notes                     |
+|----------------------|--------------------------------|--------------|--------------------------------|--------------------|----------------|---------------------------|
+| Baltic Apprenticeships | Software Development Apprentice | 20/02/2025   | [SD Apprenticeship Link](https://www.balticapprenticeships.com/vacancy/j-011667/)   | Pending            | [Set Date]      | Excited about the opportunity! |
+| JBA Consulting       | Civil Engineering Technician Apprentice | 20/02/2025   | [CE/SD Technician Apprentice](https://jbaconsulting.current-vacancies.com/Jobs/Advert/3733140?cid=3213&t=Apprentice-Various-Pathways) | Pending            | [Set Date]      | Excited about the opportunity! |
+| Roku                | Software Engineer Intern        | 20/02/2025   | [Roku Linkedin Jobs](https://www.linkedin.com/company/roku/jobs/)        | Pending            | [Set Date]      | Excited about the opportunity! |
+| Bending Spoons      | Software Engineer, Intern      | 20/02/2025   | [Application Intern Job](https://jobs.bendingspoons.com/positions/671201070d672a6fe45a0d7b)    | Pending            | [Set Date]      | Excited about the opportunity! |
+| Sparta Global       | Junior DevOps Engineer         | 20/02/2025   | [Application Intern Job](https://careers.spartaglobal.com/job/junior-devops-engineer-86)    | Pending            | [Set Date]      | Excited about the opportunity! |
 
-### 6. **Job Tracking Documentation**  
-- **[Job Tracker](Job-Tracker.md)**: A Markdown file or spreadsheet to track job applications, including:
+## Important Dates
 
----
-
-## **My Profile**  
-I am transitioning to a career in **software development**, leveraging my **filmmaking background** to approach programming with **creativity** and **attention to detail**. I thrive in collaborative environments and am committed to growing my technical skills to contribute to impactful projects.  
-
----
-
-## **Key Skills**  
-- **Technical Skills**: Python, HTML, CSS, Git, SQL, Docker, Visual Studio Code.  
-- **Creative Skills**: Video editing (Adobe After Effects, Premiere, Photoshop), storytelling, and content creation.  
-- **Soft Skills**: Problem-solving, teamwork, effective communication, and organizational expertise.  
+- **Interviews**: Update when scheduled
+- **Offers**: Track responses and negotiations
+- **Follow-ups**: Set reminders for pending applications
 
 ---
 
-## **Education**  
-- **HyperionDev**: Software Engineering Bootcamp (2024)  
-- **Norwich University of the Arts**: MA Film Studies (Merit), BA Film & Moving Image Production (2.2)  
-- **Lancaster & Morecambe College**: BTEC UAL Diploma in Creative Media Production (Distinction)  
+## Conclusion
 
----
+This job application tracker is part of my submission for HyperionDev. You can find additional details and supporting documents in the following PDF:
 
-### **Accomplishments**  
-- **[“WORKPLACE REPOSITORY”](https://github.com/GowerCampbell/WorkSpace):** Completed tasks, including Challenges with Interactive Menus on Terminals and HTML files.  
-- **[“VEILED DESCENT”](https://player.stornaway.io/watch/c5da4bf5) – MA Interactive Film | 17/09/2023:** Interactive film blending narratives, graphics, music, and voiceovers for audience-driven outcomes.  
-- **[“FROM THE ROOTS OF ARAY”](https://youtu.be/nEXT89VdP3M) – BA Final Project | 25/05/2022:** Documentary exploring heritage through interviews and research with the History Society and Scottish communities.  
+📄 **[Job Search Toolkit - Gower Campbell](Gower_Campbell_Job_Search_Toolkit.pdf)**
 
----
+For any inquiries or networking opportunities, feel free to contact me:
 
+📧 **Email**: [Gower.Campbell@gmail.com](mailto:Gower.Campbell@gmail.com)
+
+🔗 **GitHub**: [GowerCampbell](https://github.com/GowerCampbell)  
+🔗 **LinkedIn**: [Gower Campbell](https://linkedin.com/in/gower-campbell-16940115b)
+
+Thank you for reviewing my job application progress! 🚀
 ## **How to Use This Repository**  
 1. **Clone the Repository**:  
    ```bash
